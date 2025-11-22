@@ -11,4 +11,4 @@ Average chilean person doing some average chilean person things :chile:
 
 ## 👽 My blog about cybersecurity challenges
 
-[Blog](https://kaniehuest.github.io/)
+[Blog](https://sw4pped.github.io/)
