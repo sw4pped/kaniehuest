@@ -7,7 +7,7 @@ Average chilean person doing some average chilean person things :chile:
  
 ## 👀 Profiles
  
-[HackTheBox](https://app.hackthebox.com/profile/420577) - [TryHackMe](https://tryhackme.com/p/l3pra)
+[HackTheBox](https://app.hackthebox.com/profile/420577) - [TryHackMe](https://tryhackme.com/p/sw4pped)
 
 ## 👽 My blog about cybersecurity challenges
 
